@@ -15,7 +15,7 @@ class Contact extends Model
         'email',
         'phone',
         'address',
-        'birthday', // Asegúrate de que este campo esté aquí
+        'birthday', 
         'profile_picture',
     ];
 }
